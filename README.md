@@ -4,3 +4,5 @@ Things that I learned from this project
 1. Horizontal Scrolling
 2. Snap Scrolling (implimented in modern websites like, Instagram, Facebook)
 3. Grab to Scroll (on desktops)
+
+Link to website: https://mock-polygon.netlify.app/
