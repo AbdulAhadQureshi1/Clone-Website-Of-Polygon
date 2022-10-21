@@ -501,6 +501,12 @@ p.person-desc{
     .img-card p {
         font-size: 12px;
     }
+    .form {
+        display: flex;
+        flex-direction: column;
+        gap: 10%;
+        max-width: 100%;
+    }
 }
 @keyframes fadein {
     from {
